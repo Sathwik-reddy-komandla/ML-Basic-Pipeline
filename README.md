@@ -10,4 +10,4 @@
   - **_Scaling the Data Values_**
   - **_Feature Selection_**
   - **_Training the Model_**
-  - **Model Evaluation, Model Selection and Exporting the Model_**
+  - **_Model Evaluation, Model Selection and Exporting the Model_**
