@@ -1,0 +1,53 @@
+# Python-specific files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__init__.pyc
+
+# Python virtual environments
+venv/
+env/
+.pycache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and editor-specific files (add more as needed)
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.db
+
+# Build and distribution directories
+build/
+dist/
+__pycache__/
+*.egg-info/
+
+# Dependency management
+pip-log.txt
+
+# Local configuration
+.env
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
+
+# pickle files
+*.pkl
